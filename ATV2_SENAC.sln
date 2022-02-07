@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATV2_SENAC", "ATV2_SENAC\ATV2_SENAC.csproj", "{455B5424-7D7D-45E9-B4F3-F6CAF603FEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455B5424-7D7D-45E9-B4F3-F6CAF603FEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455B5424-7D7D-45E9-B4F3-F6CAF603FEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455B5424-7D7D-45E9-B4F3-F6CAF603FEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455B5424-7D7D-45E9-B4F3-F6CAF603FEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {520C394E-DF0B-401D-BE53-231910310891}
+	EndGlobalSection
+EndGlobal
